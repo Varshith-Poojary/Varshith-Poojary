@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varshith Poojary</h1>
+<h1 align="center">Hello World! 👋, I'm Varshith Poojary</h1>
 <h3 align="center">A passionate Robotics and AI Engineering student from India</h3>
 
 - 🔭 I’m currently working on **Quadruped Robot**
