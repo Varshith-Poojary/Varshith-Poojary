@@ -1,3 +1,4 @@
+![logo](https://github.com/Varshith-Poojary/Varshith-Poojary/blob/main/Banner.png)
 <h1 align="center">Hello World! 👋, I'm Varshith Poojary</h1>
 <h3 align="center">A passionate Robotics and AI Engineering student from India</h3>
 
