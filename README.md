@@ -2,8 +2,6 @@
 <h1 align="center">Hello World! 👋, I'm Varshith Poojary</h1>
 <h3 align="center">A passionate Robotics and AI Engineering student from India</h3>
 
-- 🔭 I’m currently working on **Quadruped Robot**
-
 - 📫 How to reach me **varshithindia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
